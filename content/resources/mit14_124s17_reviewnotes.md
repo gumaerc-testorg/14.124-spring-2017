@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: b5cbd324-e6ea-5fba-a8e9-515482ba5a80
 resourcetype: Document
 title: '14.124 Spring 2017 Review Notes: Contracts I'
 uid: 721a370c-c5f3-be1f-13f3-7199776cc198

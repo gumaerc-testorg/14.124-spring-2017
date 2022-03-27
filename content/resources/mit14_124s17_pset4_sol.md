@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b4342457-8658-628e-ce4d-d45b7126e95e
 resourcetype: Document
 title: 14.124 Spring 2017 Problem Set 4 Solutions
 uid: c0d53386-8804-1bbf-8bf6-4c5fe6ea90f1

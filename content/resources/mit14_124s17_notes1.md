@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6314a401-a9f8-3769-d31f-10d13d65dc84
 resourcetype: Document
 title: '14.124 S17 Lecture Notes 1: Decision Making Under Uncertainty'
 uid: 52e80271-a5a9-2ebe-d25c-55f3f2ca6e69
