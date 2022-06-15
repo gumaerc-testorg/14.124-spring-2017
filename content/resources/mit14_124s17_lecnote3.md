@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-124-microeconomic-theory-iv-spring-2017/8e0c2484aed6906405ffe7d9ba73375e_MIT14_124S17_LecNote3.pdf
+file: /courses/14-124-microeconomic-theory-iv-spring-2017/8e0c2484aed6906405ffe7d9ba73375e_MIT14_124S17_LecNote3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
