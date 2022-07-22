@@ -4,6 +4,7 @@ description: ''
 file: /courses/14-124-microeconomic-theory-iv-spring-2017/721a370cc5f3be1f13f37199776cc198_MIT14_124S17_ReviewNotes.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

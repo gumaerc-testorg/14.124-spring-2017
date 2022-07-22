@@ -5,6 +5,7 @@ file: /courses/14-124-microeconomic-theory-iv-spring-2017/8e0c2484aed6906405ffe7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

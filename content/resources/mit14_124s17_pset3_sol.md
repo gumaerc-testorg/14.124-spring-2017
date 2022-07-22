@@ -5,6 +5,7 @@ file: /courses/14-124-microeconomic-theory-iv-spring-2017/2cae60d56606a22aef12f5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
