@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-124-microeconomic-theory-iv-spring-2017/52e80271a5a92ebed25c55f3f2ca6e69_MIT14_124S17_Notes1.pdf
+file_size: 196375
 file_type: application/pdf
 learning_resource_types:
 - Readings
