@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-124-microeconomic-theory-iv-spring-2017/2cae60d56606a22aef12f5b8bd298628_MIT14_124S17_Pset3_sol.pdf
+file_size: 568259
 file_type: application/pdf
 learning_resource_types:
 - Assignments
