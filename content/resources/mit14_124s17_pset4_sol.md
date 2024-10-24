@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-124-microeconomic-theory-iv-spring-2017/c0d5338688041bbf8bf64c5fe6ea90f1_MIT14_124S17_Pset4_sol.pdf
+file: /ol-ocw-studio-app/courses/14-124-microeconomic-theory-iv-spring-2017/c0d5338688041bbf8bf64c5fe6ea90f1_MIT14_124S17_Pset4_sol.pdf
 file_size: 257868
 file_type: application/pdf
 learning_resource_types:
