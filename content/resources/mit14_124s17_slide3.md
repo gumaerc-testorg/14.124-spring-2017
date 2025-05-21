@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-124-microeconomic-theory-iv-spring-2017/9a5e2a8da8b4e9b22fa39d66f9d98dda_MIT14_124S17_Slide3.pdf
+file: /courses/14-124-microeconomic-theory-iv-spring-2017/9a5e2a8da8b4e9b22fa39d66f9d98dda_MIT14_124S17_Slide3.pdf
 file_size: 328316
 file_type: application/pdf
 learning_resource_types:
