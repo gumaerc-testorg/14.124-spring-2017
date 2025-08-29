@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-124-microeconomic-theory-iv-spring-2017/721a370cc5f3be1f13f37199776cc198_MIT14_124S17_ReviewNotes.pdf
+file: /ol-ocw-studio-app/courses/14-124-microeconomic-theory-iv-spring-2017/721a370cc5f3be1f13f37199776cc198_MIT14_124S17_ReviewNotes.pdf
 file_size: 491373
 file_type: application/pdf
 learning_resource_types: []
